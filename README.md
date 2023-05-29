@@ -38,7 +38,7 @@
 Скриншот главного окна пользователя "Преподаватель"
 ---
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/nikivikim/tasks-3/blob/task11/src/main/WorkerWin.png">
+    <img width="60%" src="https://github.com/nikivikim/tasks-3/blob/task11/src/main/studentMain.png">
 </p>
 
 Скриншот главного окна пользователя "Наблюдатель"
