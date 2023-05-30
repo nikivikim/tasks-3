@@ -19,10 +19,6 @@ _____
 + IDE (Integrated development environment)
 + Платформа JavaFX
 
-## Архитектура 
-<p align="center" width="100%">
-    <img width="60%" src="https://github.com/nikivikim/tasks-3/blob/taskDAO/src/classes.png">
-</p>
 
 ## Установка
 _____
