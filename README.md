@@ -18,22 +18,38 @@
 ---
 Язык программирования Java.
 
+## Архитектура 
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/nikivikim/tasks-3/blob/taskDAO/src/classes.png">
+</p>
+
 Скриншот главного окна 
 ---
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/nikivikim/tasks-3/blob/taskDAO/src/mainWin.png">
 </p>
 
-Скриншот главного окна после добавления записи
+Скриншот главного окна после добавления записи в БД
 ---
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/nikivikim/tasks-3/blob/taskDAO/src/add.png">
+    <img width="60%" src="https://github.com/nikivikim/tasks-3/blob/taskDAO/src/addToH2.png">
 </p>
 
 Скриншот базы данных после добавления записи
 ---
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/nikivikim/tasks-3/blob/taskDAO/src/db.png">
+    <img width="60%" src="https://github.com/nikivikim/tasks-3/blob/taskDAO/src/addingToH2.png">
+</p>
+Скриншот главного окна после добавления записи в файл
+---
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/nikivikim/tasks-3/blob/taskDAO/src/addToFile.png">
+</p>
+
+Скриншот файла после добавления записи
+---
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/nikivikim/tasks-3/blob/taskDAO/src/addingToFile.png">
 </p>
 
 
